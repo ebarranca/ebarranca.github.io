@@ -9,3 +9,6 @@ My research interests are primarily in enumerative combinatorics and linear alge
 
 ## St. Mary's Projects Supervised 
 [Isabel Walder, Spring 2026](/SMP_Walder.md)
+
+## Helpful Links 
+[Spectra Outlist](https://www.lgbtmath.org/People.html)
