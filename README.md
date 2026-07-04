@@ -1,4 +1,7 @@
+I graduated from Swarthmore College in 2019 with BAs in math and computer science. I received my MS and PhD at the University of Rhode Island. My PhD was advised by Dr. Mike Barrus and awarded in 2024. 
 
+At St. Mary's I am the faculty advisor for Math Club and Gender and Sexuality Minorities in Computer Science. Outside of St. Mary's, I am a member of Spectra 🏳️‍🌈: and the Association for Women in Mathematics
+ 
 ## Research Interests 
 My research interests are primarily in enumerative combinatorics and linear algebra. In particular, I study spectral graph theory. 
 
