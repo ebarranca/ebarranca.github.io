@@ -1,5 +1,6 @@
 
 ## Research Interests 
+My research interests are primarily in enumerative combinatorics and linear algebra. In particular, I study spectral graph theory. 
 
 
 ## Preprint Publications 
