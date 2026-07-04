@@ -7,3 +7,4 @@
 
 
 ## St. Mary's Projects Supervised 
+[Isabel Walder, Spring 2026](/SMP_Walder.pdf)
